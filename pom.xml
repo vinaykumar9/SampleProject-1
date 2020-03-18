@@ -24,7 +24,7 @@
 				<version>2.19.1</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>C:/Selenium/Java_Training/SampleProject/testng.xml</suiteXmlFile>
+						<suiteXmlFile>src/test/resources/TestRunner/testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 
