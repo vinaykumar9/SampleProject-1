@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="66993" started-at="2020-03-18T10:05:37Z" finished-at="2020-03-18T10:06:44Z">
+  <suite name="Suite" duration-ms="65481" started-at="2020-03-18T12:07:09Z" finished-at="2020-03-18T12:08:15Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="66993" started-at="2020-03-18T10:05:37Z" finished-at="2020-03-18T10:06:44Z">
+    <test name="Test" duration-ms="65481" started-at="2020-03-18T12:07:09Z" finished-at="2020-03-18T12:08:15Z">
       <class name="com.google.pages.GoogleSearchTC3">
-        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC3@6a5fc7f7]" name="TC01" duration-ms="22688" started-at="2020-03-18T15:36:22Z" finished-at="2020-03-18T15:36:44Z">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC3@6a5fc7f7]" name="TC01" duration-ms="21199" started-at="2020-03-18T17:37:54Z" finished-at="2020-03-18T17:38:15Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
       </class> <!-- com.google.pages.GoogleSearchTC3 -->
       <class name="com.google.pages.GoogleSearchTC2">
-        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC2@5594a1b5]" name="TC01" duration-ms="22095" started-at="2020-03-18T15:36:00Z" finished-at="2020-03-18T15:36:22Z">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC2@5594a1b5]" name="TC01" duration-ms="21036" started-at="2020-03-18T17:37:33Z" finished-at="2020-03-18T17:37:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
       </class> <!-- com.google.pages.GoogleSearchTC2 -->
       <class name="com.google.pages.GoogleSearchTC1">
-        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC1@2133c8f8]" name="TC01" duration-ms="22182" started-at="2020-03-18T15:35:37Z" finished-at="2020-03-18T15:36:00Z">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:com.google.pages.GoogleSearchTC1@2133c8f8]" name="TC01" duration-ms="23213" started-at="2020-03-18T17:37:09Z" finished-at="2020-03-18T17:37:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
