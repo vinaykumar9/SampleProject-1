@@ -12,7 +12,7 @@ public class GoogleSearchTC1 {
 	@Test
 	public void TC01() throws InterruptedException {
 		// TODO Auto-generated method stub
-		
+		//testcase
 		System.setProperty("webdriver.chrome.driver", "./Drivers/chromedriver.exe");
         WebDriver driver = new ChromeDriver(); 
 		driver.get("http://google.co.in/");
